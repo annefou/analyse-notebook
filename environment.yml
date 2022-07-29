@@ -3,3 +3,10 @@ channels:
 dependencies:
   - python=3.10
   - numpy
+  - jupyter_contrib_nbextensions==0.5.1
+  - xarray
+  - intake-esm
+  - cftime
+  - matplotlib
+  - cartopy
+  - gcsfs
